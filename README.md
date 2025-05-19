@@ -4,8 +4,8 @@
 This project analyzes customer churn using Power BI. The primary goal is to identify key factors contributing to churn and provide actionable insights to help reduce it. The Power BI report includes interactive dashboards and visualizations to explore churn patterns and trends.
 
 ## Data Source
-The data used for this analysis is sourced from [Specify Data Source Here - e.g., CRM database, transactional records, customer surveys]. 
-Please describe the data characteristics, such as the time period covered, key data points (e.g., customer demographics, usage patterns, subscription details), and any preprocessing steps taken.
+The data used for this analysis is sourced from kaggle datasets. 
+key data points customer characteristics for classified by churn.
 
 ## Tools Used
 - **Microsoft Power BI:** For data visualization and interactive dashboard creation.
